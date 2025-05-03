@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rushiamrute&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushiamrute&theme=tokyonight" width="400"/>
+  
   
 </p>
 
@@ -93,8 +93,8 @@ Hosted on: Render
 - 🎬 [Movie Recommendation System](https://github.com/rushiamrute/Movie-Recommendation-System)  
   *Content-based and collaborative filtering recommendation system for personalized movie suggestions.*
 
-- 🧬 [Blood Report Analysis & Trend Prediction](https://github.com/rushiamrute/Blood-Report-Analysis)  
-  *Extracts data from PDF reports, analyzes trends, and predicts disease risks with an interactive frontend.*
+- 🧬 [Email and SMS spam Detection](https://github.com/rushiamrute/Email-SMS Spam Detection)  
+  *Detect the spam sms and Email. It includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.*
 
 - 🚗 [Car Price Prediction using ML + Flask](https://github.com/rushiamrute/Car-Price-Prediction)  
   *Predicts used car prices based on features like company, model, fuel type, and kilometers driven.*
