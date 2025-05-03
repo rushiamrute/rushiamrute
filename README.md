@@ -72,7 +72,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rushiamrute)](https://github.com/ryo-ma/github-profile-trophy)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushiamrute&layout=compact&theme=dark)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rushiamrute&theme=radical&hide_border=false)
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rushiamrute&theme=radical&margin-w=15&row=1)
+
 
 ---
 ## 🚀 Deployment
