@@ -8,15 +8,13 @@
 ---
 
 🔭 I’m currently working on:  
-- 🚗 **Car Price Prediction using ML + Flask**  
-- 🧬 **Blood Report Ingormation Extraction  & Trend Analysis**  
 - 🧠 **Conversational Image Recognition Chatbot**  
 - 📚 **Publication Summary Generator for Faculty Members profile building** (Smart India Hackathon)
 
 🌱 I’m currently learning:  
 - Deep Learning (CNN, YOLOv7)
 - Langchain 
-- Web Development (Flask + Django)
+- Generative AI
 
 💬 Ask me about:  
 - Python, Pandas, Sklearn, Matplotlib 
@@ -68,13 +66,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rushiamrute&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushiamrute&theme=tokyonight" width="400"/>
+  
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushiamrute&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rushiamrute&theme=radical&hide_border=false)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rushiamrute&theme=radical&margin-w=15&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rushiamrute)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushiamrute&layout=compact&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rushiamrute&theme=radical&hide_border=false)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rushiamrute&theme=radical&margin-w=15&row=1)
 
 ---
 ## 🚀 Deployment
