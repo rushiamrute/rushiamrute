@@ -87,7 +87,7 @@ Hosted on: Render
 - 📚 [Publication Summary Generator](https://github.com/rushiamrute/Publication-Summary-Generator)  
   *Automated tool to extract and summarize faculty publications using academic APIs like Scopus and Google Scholar.*
 
-- 🎥 [CCTV Footage Analysis - Crime Detection](https://github.com/rushiamrute/CCTV-Crime-Detection)  
+- 🎥 [CCTV Footage Analysis - Crime Detection](https://github.com/rushiamrute/Crime-Detection-Using-AI-ML)  
   *AI/ML system using YOLOv7 to detect anomalous or violent activity in live or recorded CCTV footage.*
 
 - 🎬 [Movie Recommendation System](https://github.com/rushiamrute/Movie-Recommendation-System)  
@@ -99,6 +99,6 @@ Hosted on: Render
 - 🚗 [Car Price Prediction using ML + Flask](https://github.com/rushiamrute/Car-Price-Prediction)  
   *Predicts used car prices based on features like company, model, fuel type, and kilometers driven.*
 
-- 💳 [Credit Risk Analytics (Bondora Bank)](https://github.com/rushiamrute/Credit-Risk-Analytics)  
+- 💳 [Credit Risk Analytics ](https://github.com/rushiamrute/Credit-Risk-Modelling-using-Machine-Learning)  
   *Exploratory data analysis to identify default patterns and risk factors in loan applications.*
 
