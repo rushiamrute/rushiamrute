@@ -93,7 +93,7 @@ Hosted on: Render
 - 🎬 [Movie Recommendation System](https://github.com/rushiamrute/Movie-Recommendation-System)  
   *Content-based and collaborative filtering recommendation system for personalized movie suggestions.*
 
-- 🧬 [Email and SMS spam Detection](https://github.com/rushiamrute/Email-SMS Spam Detection)  
+- 🧬 [Email and SMS spam Detection][(https://github.com/rushiamrute/Email-SMS Spam Detection) ]
   *Detect the spam sms and Email. It includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.*
 
 - 🚗 [Car Price Prediction using ML + Flask](https://github.com/rushiamrute/Car-Price-Prediction)  
