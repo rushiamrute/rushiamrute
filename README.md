@@ -63,15 +63,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushiamrute&show_icons=true&theme=tokyonight" width="400"/>
-  
-  
-</p>
+ ![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushiamrute&show_icons=true&count_private=true&theme=radical)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rushiamrute)](https://github.com/ryo-ma/github-profile-trophy)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=rushiamrute&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushiamrute&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rushiamrute)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushiamrute&layout=compact&theme=dark)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rushiamrute&theme=radical&hide_border=false)
 
 
 ---
